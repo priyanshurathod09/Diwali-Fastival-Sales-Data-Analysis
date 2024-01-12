@@ -1,4 +1,4 @@
-# Diwali Festival Sales Data Analysis
+# Analysis on Diwali Sales
 
 ## Overview
 
